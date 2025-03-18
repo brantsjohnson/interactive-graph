@@ -1,0 +1,21 @@
+[debug] [2025-03-18T14:24:38.259Z] ----------------------------------------------------------------------
+[debug] [2025-03-18T14:24:38.260Z] Command:       /Users/brantsjohnson/.nvm/versions/node/v18.20.7/bin/node /Users/brantsjohnson/.nvm/versions/node/v18.20.7/bin/firebase init
+[debug] [2025-03-18T14:24:38.260Z] CLI Version:   13.34.0
+[debug] [2025-03-18T14:24:38.260Z] Platform:      darwin
+[debug] [2025-03-18T14:24:38.260Z] Node Version:  v18.20.7
+[debug] [2025-03-18T14:24:38.261Z] Time:          Tue Mar 18 2025 08:24:38 GMT-0600 (Mountain Daylight Time)
+[debug] [2025-03-18T14:24:38.261Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-03-18T14:24:38.264Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-03-18T14:24:38.264Z] > authorizing via signed-in user (brantshanonjohnson@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/brantsjohnson/Desktop/InteractiveGraph
+
